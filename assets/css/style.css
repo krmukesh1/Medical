@@ -1845,3 +1845,7 @@ section {
 header h2 {
   text-align: center;
 }
+.carousel-item h5,
+p {
+  color: #2b2b2b;
+}
