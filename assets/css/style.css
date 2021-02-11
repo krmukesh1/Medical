@@ -1842,8 +1842,9 @@ section {
   height: 350px;
   margin: 20px 0;
 }
-header h2 {
-  text-align: center;
+.conman-div-odd {
+  padding: 100px 0 60px 0;
+  overflow: hidden;
 }
 .carousel-item h5,
 p {
